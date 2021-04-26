@@ -1,0 +1,3 @@
+/Users/mihail_tarasov/Desktop/huffman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mihail_tarasov/Desktop/huffman/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mihail_tarasov/Desktop/huffman/cmake-build-debug/CMakeFiles/huffman.dir

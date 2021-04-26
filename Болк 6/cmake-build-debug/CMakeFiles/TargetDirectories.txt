@@ -1,0 +1,3 @@
+/Users/mihail_tarasov/Desktop/Итмо/Лабы по проге/15/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mihail_tarasov/Desktop/Итмо/Лабы по проге/15/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mihail_tarasov/Desktop/Итмо/Лабы по проге/15/cmake-build-debug/CMakeFiles/15.dir

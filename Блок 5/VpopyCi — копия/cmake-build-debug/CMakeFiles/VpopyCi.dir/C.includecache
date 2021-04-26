@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mihail_tarasov/Desktop/VpopyCi/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+locale.h
+-
+

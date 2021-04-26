@@ -1,0 +1,3 @@
+/Users/mihail_tarasov/Desktop/VpopyCi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mihail_tarasov/Desktop/VpopyCi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mihail_tarasov/Desktop/VpopyCi/cmake-build-debug/CMakeFiles/VpopyCi.dir
